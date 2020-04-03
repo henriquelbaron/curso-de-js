@@ -1,5 +1,6 @@
 {
     "git.ignoreLimitWarning": true,
     "emmet.triggerExpansionOnTab": true,
-    "editor.snippetSuggestions": "top"
+    "editor.snippetSuggestions": "top",
+    "editor.wrappingColumn":300,
 }
